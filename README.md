@@ -1,5 +1,7 @@
 # clone-Instagram
 
+![clone-insta](https://user-images.githubusercontent.com/110932008/184296319-df3e681f-3b92-44c3-84a4-3356b450fde7.png)
+
 
 # Dev Setup (VS Code)
 1 - Clone the project.<br>
